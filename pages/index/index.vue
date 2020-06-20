@@ -21,7 +21,7 @@
 
 <script>
 	
-	import groupInput from '@/components/group-input/group-input.vue'
+	import groupInput from '@/components/dynamic-group-input/dynamic-group-input.vue'
 	
 	export default {
 		components: {
